@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFz-DA_ZOzhVQ/profile-displayphoto-shrink_200_200/0/1653073248004?e=1670457600&v=beta&t=tvPGaWoVqDxqVZStpHPENRhKPRjuu0QXdICL45Ifvc0" width="200" style="border-radius: 20px"/>
+  <img src="https://drive.google.com/file/d/1cIvORSIEuxsTROwfMww4W1r832lbhyZY/view?usp=sharing" width="200" style="border-radius: 20px"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/vazgenzadayan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
