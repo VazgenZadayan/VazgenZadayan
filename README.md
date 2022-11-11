@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/314363338_115161288065359_5867592408881412811_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=yAFj7a9MJUgAX8tiKiZ&_nc_oc=AQldgNB7eDBzOLWE9fjEjUpq8Px9i7TeVqKCxg4cus07fV43jCa0CcicUqsjsbW22n8&tn=TbM354J1Qd6zy2_T&_nc_ht=scontent.fevn7-1.fna&oh=00_AfDj-sRZKyAssMS-rLH3Yy_1Wn62cTjVlZu7JbYH-kAemw&oe=6372F8DD" width="200" style="border-radius: 20px"/>
+  <img src="https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/314363338_115161288065359_5867592408881412811_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=yAFj7a9MJUgAX8tiKiZ&_nc_oc=AQldgNB7eDBzOLWE9fjEjUpq8Px9i7TeVqKCxg4cus07fV43jCa0CcicUqsjsbW22n8&tn=TbM354J1Qd6zy2_T&_nc_ht=scontent.fevn7-1.fna&oh=00_AfDj-sRZKyAssMS-rLH3Yy_1Wn62cTjVlZu7JbYH-kAemw&oe=6372F8DD" width="400" style="border-radius: 20px"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/vazgenzadayan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
